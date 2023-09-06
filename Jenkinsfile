@@ -32,7 +32,7 @@ pipeline {
             nexusVersion: 'nexus3', 
             protocol: 'http', 
             repository: 'Brice-repo', 
-            version: '002'
+            version: '0.0.2'
         }
       }
     }
